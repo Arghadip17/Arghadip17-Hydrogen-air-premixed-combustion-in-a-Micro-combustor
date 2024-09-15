@@ -1,0 +1,2 @@
+# Arghadip17-Hydrogen-air-premixed-combustion-in-a-Micro-combustor
+Conducted numerical simulations of hydrogen-air premixed combustion in a micro- combustor using ANSYS, optimizing design parameters for enhanced combustion efficiency and stability. Analyzed thermal performance and emission characteristics, achieving improved heat re-circulation and reduced pollutant formation in micro-scale combustion processes.
